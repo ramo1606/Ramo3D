@@ -6,3 +6,6 @@ message(STATUS "Examples directory - No examples configured yet")
 
 # Uncomment when we're ready to build the simple viewer example
 # add_subdirectory(simple_viewer)
+
+# Add the simple window example
+add_subdirectory(simple_window)
